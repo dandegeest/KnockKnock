@@ -2,11 +2,14 @@
 
 A simple microcontroller measuring device connected to a visualization in [Processing](http://processing.org).
 
-# Overview
-
-Using the knock sensor created for my [BounceHounce](https://github.com/dandegeest/BounceHouse/tree/main/docs) project I set out to measure knocks and vibrations in the world.  My original intent was to measure railroad train activity behind Reliable Street in Ames, IA.  I made several attempts at this by trying to measure on the building as the trains rumbled by, however, it became apparent from these experiements that the sensor needed to be on a railroad tie or at least much closer to the train for good readings.  This still resulted in some interesting visualizations.
-
 # TRAINS
+
+Using the knock sensor created for my [BounceHounce](https://github.com/dandegeest/BounceHouse/tree/main/docs) project I set out to measure knocks and vibrations in the world.  My original intent was to measure railroad train activity behind Reliable Street in Ames, IA.  I made several attempts at this by trying to measure vibrations on the building as the trains rumbled by by placing it on doors, windows, floor, etc.
+
+![image](/docs/tksensor.jpg)
+
+However, it became apparent from these experiements that the sensor needed to be on a railroad ties or at least much closer to the train for good sensor readings.  This still resulted in some interesting visualizations.
+
 ![image](/trainframesTrial1/imageTK000005400.png)
 
 More images
